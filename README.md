@@ -2,9 +2,9 @@
 
 ## 🤝 introduction
 
-### i am matthew atkins, a seventeen-year-old frontend web developer and graphic designer residing in mount airy, north carolina
-### i have over four years of experience doing graphic design and three years doing frontend web development
+# i am matthew atkins, a seventeen-year-old frontend web developer and graphic designer residing in mount airy, north carolina
+# i have over four years of experience doing graphic design and three years doing frontend web development
 
 ## ⭐️ projects
 
-### stay tuned
+# stay tuned
