@@ -1,4 +1,4 @@
-<img align="left" height="150" width="150" src="https://i.imgur.com/WACSpn1.png">
+<img align="left" height="200" width="150" src="https://i.imgur.com/WACSpn1.png">
 
 ## 🤝 introduction
 
